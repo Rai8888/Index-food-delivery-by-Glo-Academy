@@ -1,2 +1,2 @@
-# deliveryFood-js
-Интенсив "Сервис доставки еды на JS" от Glo Academy
+# DeliveryFood in HTML CSS and JS
+Intensive course "Food Delivery Service in JS" от Glo Academy
